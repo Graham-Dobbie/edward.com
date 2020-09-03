@@ -1,11 +1,10 @@
 import os
 import discord
 import time
-tocken = 'NzQ4MjAyNDUxNDc5NDI5MTkw.X0Z_1Q.SBaMSYPxNME86Kj8xYF4K5ClLwA'
 import random
 import praw
 
-
+tocken = 'NzQ4MjAyNDUxNDc5NDI5MTkw.X0Z_1Q.rLPx4SJheg_M6ePYUzk9vnfP1xs'
 
 class MyClient(discord.Client):
     
